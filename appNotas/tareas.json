@@ -1,0 +1,5 @@
+[
+    {"titulo": "Cenar","estado": "terminada"},
+    {"titulo": "Salir","estado": "pendiente"},
+    {"titulo": "Dormir","estado": "progreso"}
+]
